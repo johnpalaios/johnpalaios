@@ -1,15 +1,7 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
+My name is Ioannis Palaios and I'm a software developer and a 4th Year University Student. I'm from Greece, living in Athens and currently studying Electrical and Computer Engineering in National Technical University of Athens. You can find me on [![LinkedIn][3.2]][3].
+ <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -60,8 +52,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/johnpalaios
+[3]: https://www.linkedin.com/in/ioannis-palaios-986b891b6
 
 
 <!-- Resources -->
