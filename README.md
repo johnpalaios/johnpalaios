@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Ioannis Palaios** and I'm a software developer and a M.Eng 4th Year University Student. I'm from Greece, living in Athens and currently studying Electrical and Computer Engineering in National Technical University of Athens. 
+My name is **Ioannis Palaios** and I'm a software developer and a M.Eng 5th Year University Student. I'm from Greece, living in Athens and currently studying Electrical and Computer Engineering in National Technical University of Athens. 
 
 You can find me on [![LinkedIn][3.2]][3].
 
