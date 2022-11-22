@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is **Ioannis Palaios** and I'm a software developer and a M.Eng 5th Year University Student. I'm from Greece, living in Athens and currently studying Electrical and Computer Engineering in National Technical University of Athens. 
 
