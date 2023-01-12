@@ -5,12 +5,12 @@ My name is **Ioannis Palaios** and I'm a software developer and a M.Eng 5th Year
 You can find me on [![LinkedIn][3.2]][3].
 
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/johnpalaios/johnpalaios">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnpalaios&theme=blue-green" />
 </a>
-
+ -->
 
 <!-- links to social media icons -->
 
